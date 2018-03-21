@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1521659423 source:c:\users\key\desktop\pingpong\main.cpp
+	<iostream>
+	<time.h>
+	<conio.h>
+
