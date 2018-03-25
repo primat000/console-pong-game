@@ -32,6 +32,12 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="Ball.cpp" />
+		<Unit filename="Ball.h" />
+		<Unit filename="GameManager.cpp" />
+		<Unit filename="GameManager.h" />
+		<Unit filename="Paddle.cpp" />
+		<Unit filename="Paddle.h" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<code_completion />

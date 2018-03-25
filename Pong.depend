@@ -4,3 +4,28 @@
 	<time.h>
 	<conio.h>
 
+1521987726 source:c:\users\key\desktop\pingpong\console-pong-game\ball.cpp
+	"Ball.h"
+
+1521989845 c:\users\key\desktop\pingpong\console-pong-game\ball.h
+	<iostream>
+
+1521989845 source:c:\users\key\desktop\pingpong\console-pong-game\gamemanager.cpp
+	"GameManager.h"
+
+1521989845 c:\users\key\desktop\pingpong\console-pong-game\gamemanager.h
+	"Ball.h"
+	"Paddle.h"
+	<time.h>
+	<conio.h>
+
+1521988166 c:\users\key\desktop\pingpong\console-pong-game\paddle.h
+
+1521989123 source:c:\users\key\desktop\pingpong\console-pong-game\main.cpp
+	<iostream>
+	"GameManager.h"
+	<conio.h>
+
+1521987726 source:c:\users\key\desktop\pingpong\console-pong-game\paddle.cpp
+	"Paddle.h"
+
